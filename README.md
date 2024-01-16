@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
 
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
@@ -14,8 +10,8 @@
 
 <p align="center">
   <img 
-    src=".github/ebook.png"
-    width="400"  
+    src="ebook.png"
+    width="300"  
   />
 </p>
 
