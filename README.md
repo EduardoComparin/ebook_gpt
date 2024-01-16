@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/arte_2.png"
+    src=".github/ebook.png"
     width="400"  
   />
 </p>
